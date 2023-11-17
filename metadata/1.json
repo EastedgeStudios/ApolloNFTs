@@ -1,0 +1,29 @@
+{
+    "description": "Apollo Ted index 2", 
+    "external_url": "https://apollocrypto.org/3", 
+    "image": "https://eastedgestudios.github.io/ApolloNFTs/images/ApolloTed.png", 
+    "name": "Apollo Ted 1",
+    "attributes": [
+      {
+        "trait_type": "Haircut",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Attribute2",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Attribute3",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Attribute4",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Attribute5",
+        "value": "High"
+      }
+    ]
+
+  }
