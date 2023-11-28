@@ -1,0 +1,32 @@
+{
+  "description": "This wise advisor has counseled the House of Apollo for many years.  His conquests and expertise are unparalleled throughout the realm.",
+  "external_url": "https://apollocrypto.org/3",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/CloakedCounselor.png",
+  "name": "Cloaked Counselor",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "0"
+    },
+    {
+      "trait_type": "Business",
+      "value": "High"
+    },
+    {
+      "trait_type": "Strategy",
+      "value": "High"
+    },
+    {
+      "trait_type": "Space",
+      "value": "High"
+    },
+    {
+      "trait_type": "Pseudocode",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Sportsball",
+      "value": "Low"
+    }
+  ]
+}
