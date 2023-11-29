@@ -1,0 +1,32 @@
+{
+  "description": "A warrior steeped in the legacy of generations, he seeks to earn favor in his pursuit of the Spirit Collie of Wen Moon.",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/ApolloTanner.png",
+  "name": "Apollo Tanner",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "1"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "High"
+    },
+    {
+      "trait_type": "Extrovert",
+      "value": "High"
+    },
+    {
+      "trait_type": "Cleanliness",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Memory",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Survival Skills",
+      "value": "Low"
+    }
+  ]
+}
