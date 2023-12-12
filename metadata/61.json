@@ -1,0 +1,32 @@
+{
+  "description": "A battle hardened ranger from the northern territory, this hero and his trusty sidekick vanquish evil in the name of King Apollo.",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/ApolloTed.png",
+  "name": "Apollo Ted",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "15"
+    },
+    {
+      "trait_type": "Loyalty",
+      "value": "High"
+    },
+    {
+      "trait_type": "Travel",
+      "value": "High"
+    },
+    {
+      "trait_type": "Frugalness",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Comfort",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Low"
+    }
+  ]
+}
