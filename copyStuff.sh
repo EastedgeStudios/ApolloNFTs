@@ -1,8 +1,8 @@
 #!/bin/sh
 
-subtractAmount=186
-for i in {190..229}
+subtractAmount=226
+for i in {230..269}
 do
-    cp metadata/CloakedCounselor.json "metadata/$i.json"
+    cp metadata/CoreyJenkins.json "metadata/$i.json"
     sed -i'' -e "s/0/$(($i - $subtractAmount))/g" metadata/$i.json
 done
