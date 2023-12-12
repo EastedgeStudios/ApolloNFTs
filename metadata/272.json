@@ -1,0 +1,32 @@
+{
+  "description": "This mysterious wizard conjured great treasures in the first crusade.  His whereabouts are unknown, but it is rumored that he is watching…",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/Hegemony.png",
+  "name": "Hegemony",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "6"
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": "High"
+    },
+    {
+      "trait_type": "Creativeness",
+      "value": "High"
+    },
+    {
+      "trait_type": "CSS",
+      "value": "High"
+    },
+    {
+      "trait_type": "Cooking",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Sudoku",
+      "value": "Medium"
+    }
+  ]
+}

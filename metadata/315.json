@@ -1,0 +1,32 @@
+{
+  "description": "Queen of the Collies and the First Pups, Protector of the Treats, the Mother of Apollo and the Breaker of Leashes.",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/LadyApollo.png",
+  "name": "Lady Apollo",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "9"
+    },
+    {
+      "trait_type": "Sarcasm",
+      "value": "High"
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": "High"
+    },
+    {
+      "trait_type": "Analysis",
+      "value": "High"
+    },
+    {
+      "trait_type": "Rhythm",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Technical",
+      "value": "Low"
+    }
+  ]
+}
