@@ -1,0 +1,32 @@
+{
+  "description": "Entrusted with training the next generation of Apollo royals, the Pup\u1111111 Wrangler holds knowledge key to the future success of the House.",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/PupWrangler.png",
+  "name": "Pup Wrangler",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "11"
+    },
+    {
+      "trait_type": "Patience",
+      "value": "High"
+    },
+    {
+      "trait_type": "Catching",
+      "value": "High"
+    },
+    {
+      "trait_type": "Resourcefulness",
+      "value": "High"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "Low"
+    }
+  ]
+}
