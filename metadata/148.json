@@ -1,0 +1,32 @@
+{
+  "description": "A youthful bard whos as good on the turntables as he is with the steel. Last seen at the Midsummer Rave in Riften.",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/DJApolloKnight.png",
+  "name": "DJ Apollo Knight",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "42"
+    },
+    {
+      "trait_type": "Musicality",
+      "value": "High"
+    },
+    {
+      "trait_type": "Persuasiveness",
+      "value": "High"
+    },
+    {
+      "trait_type": "Punctuality",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Coordination",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Organization",
+      "value": "Low"
+    }
+  ]
+}
