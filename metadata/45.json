@@ -1,0 +1,32 @@
+{
+  "description": "This multidisciplined warrior seeks to bring balance to the realm by uniting the Houses of the Crypt and restoring the Order of the Bull.",
+  "external_url": "https://apollocrypto.org",
+  "image": "https://eastedgestudios.github.io/ApolloNFTs/images/MJMetaverse.png",
+  "name": "MJ Metaverse",
+  "attributes": [
+    {
+      "trait_type": "Sequence",
+      "value": "9"
+    },
+    {
+      "trait_type": "Strength",
+      "value": "High"
+    },
+    {
+      "trait_type": "Wisdom",
+      "value": "High"
+    },
+    {
+      "trait_type": "Consumption",
+      "value": "High"
+    },
+    {
+      "trait_type": "Fashion",
+      "value": "Low"
+    },
+    {
+      "trait_type": "FT%",
+      "value": "Low"
+    }
+  ]
+}
