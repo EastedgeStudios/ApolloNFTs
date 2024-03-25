@@ -1,10 +1,57 @@
 [
     {
         "name": "King of the Herd",
-        "reward": "150,000 FTW"
+        "reward": "150,000 FTW",
+        "maximum" : 9
     },
     {
         "name": "MJ Metaverse",
-        "reward": "75,000 FTW"
+        "reward": "75,000 FTW",
+        "maximum": 13
+    },
+    {
+        "name": "Apollo Ted",
+        "reward": "50,000 FTW",
+        "maximum":23
+    },
+    {
+        "name": "AJ Moonwalker",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "Apollo Tanner",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "Cloaked Counselor",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "Corey Jenkins",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "DJ Apollo Knight",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "Hegemony",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "Lady Apollo",
+        "reward": "none",
+        "maximum":43
+    },
+    {
+        "name": "Pup Wrangler",
+        "reward": "none",
+        "maximum":43
     }
 ]
